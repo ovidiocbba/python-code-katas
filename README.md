@@ -27,6 +27,12 @@
     <td><code>string format</code></td>
     <td><a href="https://www.codewars.com/kata/5977618080ef220766000022/train/python">Link</a></td>
   </tr>
+  <tr>
+    <td>Abbreviate a Two Word Name</td>
+    <td>1</td>
+    <td><code>split</code>,<code>upper</code></td>
+    <td><a href="https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3/train/python">Link</a></td>
+  </tr>
 </table>
 
 ### 7 Kyu
