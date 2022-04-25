@@ -1,3 +1,7 @@
+### [CodeWars profile:](https://www.codewars.com/users/OvidioMiranda)
+
+![Codewars Rank](https://www.codewars.com/users/OvidioMiranda/badges/large)
+
 ### Python Solutions
 
 ### 8 Kyu
@@ -7,31 +11,26 @@
     <th>Kata(s)</th>
     <th>Solution(s)</th>
     <th>Subject</th>
-    <th>Link</th>
   </tr>
   <tr>
-    <td>Semi-Optional</td>
+    <td><a href="https://www.codewars.com/kata/521cd52e790405a74800032c/train/python">Semi-Optional</a></td>
     <td>1</td>
     <td><code>dict</code></td>
-    <td><a href="https://www.codewars.com/kata/521cd52e790405a74800032c/train/python">Link</a></td>
   </tr>
   <tr>
-    <td>Square(n) Sum</td>
+    <td><a href="https://www.codewars.com/kata/515e271a311df0350d00000f/train/python">Square(n) Sum</a></td>
     <td>1</td>
     <td><code>for</code></td>
-    <td><a href="https://www.codewars.com/kata/515e271a311df0350d00000f/train/python">Link</a></td>
   </tr>
   <tr>
-    <td>USD => CNY</td>
+    <td><a href="https://www.codewars.com/kata/5977618080ef220766000022/train/python">USD => CNY</a></td>
     <td>1</td>
     <td><code>string format</code></td>
-    <td><a href="https://www.codewars.com/kata/5977618080ef220766000022/train/python">Link</a></td>
   </tr>
   <tr>
-    <td>Abbreviate a Two Word Name</td>
+    <td><a href="https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3/train/python">Abbreviate a Two Word Name</a></td>
     <td>1</td>
     <td><code>split</code>,<code>upper</code></td>
-    <td><a href="https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3/train/python">Link</a></td>
   </tr>
 </table>
 
@@ -42,16 +41,48 @@
     <th>Kata(s)</th>
     <th>Solution(s)</th>
     <th>Subject</th>
-    <th>Link</th>
   </tr>
   <tr>
-    <td>Substring fun</td>
+    <td><a href="https://www.codewars.com/kata/565b112d09c1adfdd500019c/train/python">Substring fun</a></td>
     <td>1</td>
     <td><code>for</code></td>
-    <td><a href="https://www.codewars.com/kata/565b112d09c1adfdd500019c/train/python">Link</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.codewars.com/kata/594adadee075005308000122/train/python">Even and Odd !</a></td>
+    <td>1</td>
+    <td><code>for</code>,<code>if not</code></td>
   </tr>
 </table>
 
-### [CodeWars profile:](https://www.codewars.com/users/OvidioMiranda)
+# Setup Instructions
+## Python Setup
 
-![Codewars Rank](https://www.codewars.com/users/OvidioMiranda/badges/large)
+This project requires Python 3.7 or higher.
+You can download the latest Python version from [Python.org](https://www.python.org/downloads/).
+```zsh
+python --version
+```
+This project also requires [pipenv](https://docs.pipenv.org/).
+To install pipenv, run the following command from the command line:
+```zsh
+ pip install pipenv
+```
+Check if it was installed correctly
+```zsh
+pipenv --version
+```
+You should also have a Python editor/IDE of your choice.
+Good choices include [PyCharm](https://www.jetbrains.com/pycharm/)
+and [Visual Studio Code](https://code.visualstudio.com/docs/languages/python).
+
+You will also need [Git](https://git-scm.com/) to copy this project code.
+
+## Initialize project
+Activate virtualenv.
+```zsh
+pipenv shell
+```
+Install all dependencies in your virtualenv.
+```zsh
+pipenv install
+```
