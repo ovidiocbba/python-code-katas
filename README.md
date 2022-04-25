@@ -2,7 +2,7 @@
 
 ![Codewars Rank](https://www.codewars.com/users/OvidioMiranda/badges/large)
 
-### Python Solutions
+# Python Solutions
 
 ### 8 Kyu
 
