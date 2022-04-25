@@ -57,6 +57,11 @@
     <td>1</td>
     <td><code>if</code>,<code>else</code></td>
   </tr>
+  <tr>
+    <td><a href="https://www.codewars.com/kata/5d5ee4c35162d9001af7d699/train/python">Sum of Minimums!</a></td>
+    <td>1</td>
+    <td><code>for</code>,<code>sort</code></td>
+  </tr>
 </table>
 
 # Setup Instructions
