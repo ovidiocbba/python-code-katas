@@ -48,9 +48,14 @@
     <td><code>for</code></td>
   </tr>
   <tr>
-    <td><a href="https://www.codewars.com/kata/594adadee075005308000122/train/python">Even and Odd !</a></td>
+    <td><a href="https://www.codewars.com/kata/594adadee075005308000122/train/python">Even and Odd!</a></td>
     <td>1</td>
     <td><code>for</code>,<code>if not</code></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.codewars.com/kata/5ff50f64c0afc50008861bf0/train/python">Four/Seven</a></td>
+    <td>1</td>
+    <td><code>if</code>,<code>else</code></td>
   </tr>
 </table>
 
