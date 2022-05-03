@@ -62,6 +62,11 @@
     <td>1</td>
     <td><code>for</code>,<code>sort</code></td>
   </tr>
+  <tr>
+    <td><a href="https://www.codewars.com/kata/5d49c93d089c6e000ff8428c/train/python">Computer problem series #1: Fill the Hard Disk Drive</a></td>
+    <td>1</td>
+    <td><code>break</code>,<code>for</code></td>
+  </tr>
 </table>
 
 # Setup Instructions
