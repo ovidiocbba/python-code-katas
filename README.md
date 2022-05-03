@@ -67,6 +67,11 @@
     <td>1</td>
     <td><code>break</code>,<code>for</code></td>
   </tr>
+  <tr>
+    <td><a href="https://www.codewars.com/kata/56f3a1e899b386da78000732/train/python">Parts of a list</a></td>
+    <td>1</td>
+    <td><code>range</code>,<code>len</code>,<code>join</code></td>
+  </tr>
 </table>
 
 # Setup Instructions
