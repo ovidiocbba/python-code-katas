@@ -5,7 +5,6 @@
 # Python Solutions
 
 ### 8 Kyu
-
 <table>
   <tr>
     <th>Kata(s)</th>
@@ -13,22 +12,22 @@
     <th>Subject</th>
   </tr>
   <tr>
-    <td><a href="https://www.codewars.com/kata/521cd52e790405a74800032c/train/python">Semi-Optional</a></td>
+    <td>1. <a href="https://www.codewars.com/kata/521cd52e790405a74800032c/train/python">Semi-Optional</a></td>
     <td>1</td>
     <td><code>dict</code></td>
   </tr>
   <tr>
-    <td><a href="https://www.codewars.com/kata/515e271a311df0350d00000f/train/python">Square(n) Sum</a></td>
+    <td>2. <a href="https://www.codewars.com/kata/515e271a311df0350d00000f/train/python">Square(n) Sum</a></td>
     <td>1</td>
     <td><code>for</code></td>
   </tr>
   <tr>
-    <td><a href="https://www.codewars.com/kata/5977618080ef220766000022/train/python">USD => CNY</a></td>
+    <td>3. <a href="https://www.codewars.com/kata/5977618080ef220766000022/train/python">USD => CNY</a></td>
     <td>1</td>
     <td><code>string format</code></td>
   </tr>
   <tr>
-    <td><a href="https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3/train/python">Abbreviate a Two Word Name</a></td>
+    <td>4. <a href="https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3/train/python">Abbreviate a Two Word Name</a></td>
     <td>1</td>
     <td><code>split</code>,<code>upper</code></td>
   </tr>
@@ -43,34 +42,39 @@
     <th>Subject</th>
   </tr>
   <tr>
-    <td><a href="https://www.codewars.com/kata/565b112d09c1adfdd500019c/train/python">Substring fun</a></td>
+    <td>1. <a href="https://www.codewars.com/kata/565b112d09c1adfdd500019c/train/python">Substring fun</a></td>
     <td>1</td>
     <td><code>for</code></td>
   </tr>
   <tr>
-    <td><a href="https://www.codewars.com/kata/594adadee075005308000122/train/python">Even and Odd!</a></td>
+    <td>2. <a href="https://www.codewars.com/kata/594adadee075005308000122/train/python">Even and Odd!</a></td>
     <td>1</td>
     <td><code>for</code>,<code>if not</code></td>
   </tr>
   <tr>
-    <td><a href="https://www.codewars.com/kata/5ff50f64c0afc50008861bf0/train/python">Four/Seven</a></td>
+    <td>3. <a href="https://www.codewars.com/kata/5ff50f64c0afc50008861bf0/train/python">Four/Seven</a></td>
     <td>1</td>
     <td><code>if</code>,<code>else</code></td>
   </tr>
   <tr>
-    <td><a href="https://www.codewars.com/kata/5d5ee4c35162d9001af7d699/train/python">Sum of Minimums!</a></td>
+    <td>4. <a href="https://www.codewars.com/kata/5d5ee4c35162d9001af7d699/train/python">Sum of Minimums!</a></td>
     <td>1</td>
     <td><code>for</code>,<code>sort</code></td>
   </tr>
   <tr>
-    <td><a href="https://www.codewars.com/kata/5d49c93d089c6e000ff8428c/train/python">Computer problem series #1: Fill the Hard Disk Drive</a></td>
+    <td>5. <a href="https://www.codewars.com/kata/5d49c93d089c6e000ff8428c/train/python">Computer problem series #1: Fill the Hard Disk Drive</a></td>
     <td>1</td>
     <td><code>break</code>,<code>for</code></td>
   </tr>
   <tr>
-    <td><a href="https://www.codewars.com/kata/56f3a1e899b386da78000732/train/python">Parts of a list</a></td>
+    <td>6. <a href="https://www.codewars.com/kata/56f3a1e899b386da78000732/train/python">Parts of a list</a></td>
     <td>1</td>
     <td><code>range</code>,<code>len</code>,<code>join</code></td>
+  </tr>
+  <tr>
+    <td>7. <a href="https://www.codewars.com/kata/559590633066759614000063/train/python">The highest profit wins!</a></td>
+    <td>1</td>
+    <td><code>min</code>,<code>max</code></td>
   </tr>
 </table>
 
