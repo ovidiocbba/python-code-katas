@@ -76,6 +76,11 @@
     <td>1</td>
     <td><code>min</code>,<code>max</code></td>
   </tr>
+  <tr>
+    <td>8. <a href="https://www.codewars.com/kata/582746fa14b3892727000c4f/train/python">Coding Meetup #1 - Higher-Order Functions Series</a></td>
+    <td>1</td>
+    <td><code>for</code>,<code>if</code></td>
+  </tr>
 </table>
 
 # Setup Instructions
