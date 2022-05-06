@@ -5,6 +5,7 @@
 # Python Solutions
 
 ### 8 Kyu
+
 <table>
   <tr>
     <th>Kata(s)</th>
@@ -87,29 +88,40 @@
     <td><code>for</code>,<code>range</code>,<code>not in</code> and <code>len</code></td>
   </tr>
   <tr>
-    <td>10. <a href="https://www.codewars.com/kata/5aee86c5783bb432cd000018/train/python">Responsible Drinking</a></td>
+  <td>10. <a href="https://www.codewars.com/kata/595519279be6c575b5000016/train/python">Battle of the characters (Easy)</a></td>
+    <td>1</td>
+    <td><code>for</code>,<code>range</code>,<code>not in</code> and <code>len</code></td>
+  </tr>
+  <td>11. <a href="https://www.codewars.com/kata/5aee86c5783bb432cd000018/train/python">Responsible Drinking</a></td>
     <td>1</td>
     <td><code>split</code>,<code>isnumeric</code>,<code>for</code> and <code>str</code></td>
   </tr>
 </table>
 
 # Setup Instructions
+
 ## Python Setup
 
 This project requires Python 3.7 or higher.
 You can download the latest Python version from [Python.org](https://www.python.org/downloads/).
+
 ```zsh
 python --version
 ```
+
 This project also requires [pipenv](https://docs.pipenv.org/).
 To install pipenv, run the following command from the command line:
+
 ```zsh
  pip install pipenv
 ```
+
 Check if it was installed correctly
+
 ```zsh
 pipenv --version
 ```
+
 You should also have a Python editor/IDE of your choice.
 Good choices include [PyCharm](https://www.jetbrains.com/pycharm/)
 and [Visual Studio Code](https://code.visualstudio.com/docs/languages/python).
@@ -117,11 +129,15 @@ and [Visual Studio Code](https://code.visualstudio.com/docs/languages/python).
 You will also need [Git](https://git-scm.com/) to copy this project code.
 
 ## Initialize project
+
 Activate virtualenv.
+
 ```zsh
 pipenv shell
 ```
+
 Install all dependencies in your virtualenv.
+
 ```zsh
 pipenv install
 ```
