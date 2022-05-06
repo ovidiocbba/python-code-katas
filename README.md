@@ -81,6 +81,11 @@
     <td>1</td>
     <td><code>for</code>,<code>if</code></td>
   </tr>
+  <tr>
+    <td>9. <a href="https://www.codewars.com/kata/5813d19765d81c592200001a/train/python">Don't give me five!</a></td>
+    <td>1</td>
+    <td><code>for</code>,<code>range</code>,<code>not in</code> and <code>len</code></td>
+  </tr>
 </table>
 
 # Setup Instructions
