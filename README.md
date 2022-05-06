@@ -90,11 +90,17 @@
   <tr>
   <td>10. <a href="https://www.codewars.com/kata/595519279be6c575b5000016/train/python">Battle of the characters (Easy)</a></td>
     <td>1</td>
-    <td><code>for</code>,<code>range</code>,<code>not in</code> and <code>len</code></td>
+    <td><code>for</code>,<code>if</code>,<code>elif</code> and <code>dictionary</code></td>
   </tr>
+  <tr>
   <td>11. <a href="https://www.codewars.com/kata/5aee86c5783bb432cd000018/train/python">Responsible Drinking</a></td>
     <td>1</td>
     <td><code>split</code>,<code>isnumeric</code>,<code>for</code> and <code>str</code></td>
+  </tr>
+  <tr>
+  <td>12. <a href="https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/train/python">List Filtering</a></td>
+    <td>1</td>
+    <td><code>for</code>,<code>str</code>,<code>isdigit</code> and <code>type</code></td>
   </tr>
 </table>
 
