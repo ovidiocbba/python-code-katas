@@ -86,6 +86,11 @@
     <td>1</td>
     <td><code>for</code>,<code>range</code>,<code>not in</code> and <code>len</code></td>
   </tr>
+  <tr>
+    <td>10. <a href="https://www.codewars.com/kata/595519279be6c575b5000016/train/python">Battle of the characters (Easy)</a></td>
+    <td>1</td>
+    <td><code>for</code>,<code>range</code>,<code>not in</code> and <code>len</code></td>
+  </tr>
 </table>
 
 # Setup Instructions
