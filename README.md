@@ -86,6 +86,11 @@
     <td>1</td>
     <td><code>for</code>,<code>range</code>,<code>not in</code> and <code>len</code></td>
   </tr>
+  <tr>
+    <td>10. <a href="https://www.codewars.com/kata/5aee86c5783bb432cd000018/train/python">Responsible Drinking</a></td>
+    <td>1</td>
+    <td><code>split</code>,<code>isnumeric</code>,<code>for</code> and <code>str</code></td>
+  </tr>
 </table>
 
 # Setup Instructions
