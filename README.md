@@ -102,6 +102,11 @@
     <td>1</td>
     <td><code>for</code>,<code>str</code>,<code>isdigit</code> and <code>type</code></td>
   </tr>
+  <tr>
+  <td>13. <a href="https://www.codewars.com/kata/55de6173a8fbe814ee000061/train/python">Filter unused digits</a></td>
+    <td>1</td>
+    <td><code>list</code><code>*args</code>,<code>lambda Functions</code>,<code>dict.fromkeys</code>,<code>join</code>and <code>symmetric_difference</code></td>
+  </tr>
 </table>
 
 # Setup Instructions
