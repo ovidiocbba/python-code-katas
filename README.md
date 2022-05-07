@@ -105,12 +105,17 @@
   <tr>
   <td>13. <a href="https://www.codewars.com/kata/55de6173a8fbe814ee000061/train/python">Filter unused digits</a></td>
     <td>1</td>
-    <td><code>list</code><code>*args</code>,<code>lambda Functions</code>,<code>dict.fromkeys</code>,<code>join</code>and <code>symmetric_difference</code></td>
+    <td><code>list</code>,<code>*args</code>,<code>lambda Functions</code>,<code>dict.fromkeys</code>,<code>join</code>and <code>symmetric_difference</code></td>
   </tr>
   <tr>
   <td>14. <a href="https://www.codewars.com/kata/5a651865fd56cb55760000e0/train/python">Array Leaders (Array Series #3)</a></td>
     <td>1</td>
-    <td><code>range</code><code>sum</code> and <code>append</code></td>
+    <td><code>range</code>,<code>sum</code> and <code>append</code></td>
+  </tr>
+  <tr>
+  <td>15. <a href="https://www.codewars.com/kata/605f5d33f38ca800322cb18f/train/python">Tap Code Translation</a></td>
+    <td>1</td>
+    <td><code>range</code><code>len</code> and <code>in</code></td>
   </tr>
 </table>
 
