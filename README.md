@@ -152,6 +152,11 @@
     <td>1</td>
     <td><code>copy()</code> and <code>sort()</code></td>
   </tr>
+  <tr>
+    <td>23. <a href="https://www.codewars.com/kata/5803753aab6c2099e600000e/train/python">Age in days</a></td>
+    <td>1</td>
+    <td><code>copy()</code> and <code>sort()</code></td>
+  </tr>
 </table>
 
 # Setup Instructions
