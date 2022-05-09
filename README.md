@@ -127,6 +127,11 @@
     <td>1</td>
     <td><code>hashlib.md5</code> and <code>hexdigest()</code></td>
   </tr>
+  <tr>
+    <td>18. <a href="https://www.codewars.com/kata/57f8ee485cae443c4d000127/train/python">Spacify</a></td>
+    <td>1</td>
+    <td><code>for</code> and <code>range(0,x)</code></td>
+  </tr>
 </table>
 
 # Setup Instructions
