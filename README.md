@@ -108,19 +108,24 @@
     <td><code>list</code>,<code>*args</code>,<code>lambda Functions</code>,<code>dict.fromkeys</code>,<code>join</code>and <code>symmetric_difference</code></td>
   </tr>
   <tr>
-  <td>14. <a href="https://www.codewars.com/kata/5a651865fd56cb55760000e0/train/python">Array Leaders (Array Series #3)</a></td>
+    <td>14. <a href="https://www.codewars.com/kata/5a651865fd56cb55760000e0/train/python">Array Leaders (Array Series #3)</a></td>
     <td>1</td>
     <td><code>range</code>,<code>sum</code> and <code>append</code></td>
   </tr>
   <tr>
-  <td>15. <a href="https://www.codewars.com/kata/605f5d33f38ca800322cb18f/train/python">Tap Code Translation</a></td>
+    <td>15. <a href="https://www.codewars.com/kata/605f5d33f38ca800322cb18f/train/python">Tap Code Translation</a></td>
     <td>1</td>
     <td><code>range</code>,<code>len</code> and <code>in</code></td>
   </tr>
   <tr>
-  <td>16. <a href="https://www.codewars.com/kata/5590961e6620c0825000008f/train/python">Case Swapping</a></td>
+    <td>16. <a href="https://www.codewars.com/kata/5590961e6620c0825000008f/train/python">Case Swapping</a></td>
     <td>1</td>
     <td><code>for</code>,<code>lower()</code> and <code>upper()</code></td>
+  </tr>
+  <tr>
+    <td>17. <a href="https://www.codewars.com/kata/54207f9677730acd490000d1/train/python">Password Hashes</a></td>
+    <td>1</td>
+    <td><code>hashlib.md5</code> and <code>hexdigest()</code></td>
   </tr>
 </table>
 
