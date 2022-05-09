@@ -155,8 +155,24 @@
   <tr>
     <td>23. <a href="https://www.codewars.com/kata/5803753aab6c2099e600000e/train/python">Age in days</a></td>
     <td>1</td>
-    <td><code>copy()</code> and <code>sort()</code></td>
+    <td><code>datetime(year, month, day)</code> and <code>datetime.now()</code></td>
   </tr>
+</table>
+
+### 6 Kyu
+
+<table>
+  <tr>
+    <th>Kata(s)</th>
+    <th>Solution(s)</th>
+    <th>Subject</th>
+  </tr>
+  <tr>
+    <td>1. <a href="https://www.codewars.com/kata/622de76d28bf330057cd6af8/train/python">How many pages in a book?</a></td>
+    <td>1</td>
+    <td><code>range(0, x)</code> and <code>len(x)</code></td>
+  </tr>
+  <tr>
 </table>
 
 # Setup Instructions
