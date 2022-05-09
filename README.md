@@ -142,6 +142,11 @@
     <td>1</td>
     <td><code>for()</code>,<code>split()</code> and <code>len(x)</code></td>
   </tr>
+  <tr>
+    <td>21. <a href="https://www.codewars.com/kata/6071ef9cbe6ec400228d9531/train/python">Dot Calculator</a></td>
+    <td>1</td>
+    <td><code>dictionary</code> and <code>len(x)</code></td>
+  </tr>
 </table>
 
 # Setup Instructions
