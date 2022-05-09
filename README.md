@@ -128,9 +128,9 @@
     <td><code>hashlib.md5</code> and <code>hexdigest()</code></td>
   </tr>
   <tr>
-    <td>18. <a href="https://www.codewars.com/kata/57f8ee485cae443c4d000127/train/python">Spacify</a></td>
+    <td>18. <a href="https://www.codewars.com/kata/588a3c3ef0fbc9c8e1000095/train/python">Max diff - easy</a></td>
     <td>1</td>
-    <td><code>for</code> and <code>range(0,x)</code></td>
+    <td><code>sort()</code> and <code>len(x)</code></td>
   </tr>
 </table>
 
