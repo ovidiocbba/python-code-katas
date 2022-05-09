@@ -132,6 +132,11 @@
     <td>1</td>
     <td><code>sort()</code> and <code>len(x)</code></td>
   </tr>
+  <tr>
+    <td>19. <a href="https://www.codewars.com/kata/5b36137991c74600f200001b/train/python">Kill The Monsters!</a></td>
+    <td>1</td>
+    <td><code>for()</code>,<code>range(0,x)</code> and <code>string format</code></td>
+  </tr>
 </table>
 
 # Setup Instructions
