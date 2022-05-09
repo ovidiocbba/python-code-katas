@@ -137,6 +137,11 @@
     <td>1</td>
     <td><code>for()</code>,<code>range(0,x)</code> and <code>string format</code></td>
   </tr>
+  <tr>
+    <td>20. <a href="https://www.codewars.com/kata/5697fb83f41965761f000052/train/python">Filter Long Words</a></td>
+    <td>1</td>
+    <td><code>for()</code>,<code>split()</code> and <code>len(x)</code></td>
+  </tr>
 </table>
 
 # Setup Instructions
