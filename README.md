@@ -192,6 +192,11 @@
     <td>1</td>
     <td><code>.upper()</code>,<code>dict.fromkeys(list)</code> and <code>.count(x)</code></td>
   </tr>
+  <tr>
+    <td>5. <a href="https://www.codewars.com/kata/59922ce23bfe2c10d7000057/train/python">FIRE and FURY</a></td>
+    <td>1</td>
+    <td><code>.fullmatch(regex,value)</code>,<code>.findall(regex,value)</code> and <code>enumerate(list)</code></td>
+  </tr>
 </table>
 
 # Setup Instructions
