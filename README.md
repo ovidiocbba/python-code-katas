@@ -173,6 +173,11 @@
     <td><code>range(0, x)</code> and <code>len(x)</code></td>
   </tr>
   <tr>
+    <td>2. <a href="https://www.codewars.com/kata/541c8630095125aba6000c00/train/python">Sum of Digits / Digital Root</a></td>
+    <td>1</td>
+    <td><code>while</code>,<code>if</code>,<code>else</code> and <code>len(x)</code></td>
+  </tr>
+  <tr>
 </table>
 
 # Setup Instructions
