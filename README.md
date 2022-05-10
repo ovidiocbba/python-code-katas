@@ -178,6 +178,10 @@
     <td><code>while</code>,<code>if</code>,<code>else</code> and <code>len(x)</code></td>
   </tr>
   <tr>
+    <td>3. <a href="https://www.codewars.com/kata/602afedfd4a64d0008eb4e6e/train/python">Determine the date by the day number</a></td>
+    <td>1</td>
+    <td><code>datetime(year, month, day)</code>,<code>datetime.timedelta(days)</code> and <code>.strftime("%B, %-d")</code></td>
+  </tr>
 </table>
 
 # Setup Instructions
