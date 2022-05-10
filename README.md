@@ -182,6 +182,11 @@
     <td>1</td>
     <td><code>datetime(year, month, day)</code>,<code>datetime.timedelta(days)</code> and <code>.strftime("%B, %-d")</code></td>
   </tr>
+  <tr>
+    <td>3. <a href="https://www.codewars.com/kata/58a8807c5336a3f613000157/train/python">Get the Square of a Number without ** or * or pow()</a></td>
+    <td>1</td>
+    <td><code>lambda functions</code>,<code>sum(x)</code> and <code>for _ in range(n)</code></td>
+  </tr>
 </table>
 
 # Setup Instructions
