@@ -187,6 +187,11 @@
     <td>1</td>
     <td><code>lambda functions</code>,<code>sum(x)</code> and <code>for _ in range(n)</code></td>
   </tr>
+  <tr>
+    <td>4. <a href="https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1/train/python">Counting Duplicates</a></td>
+    <td>1</td>
+    <td><code>.upper()</code>,<code>dict.fromkeys(list)</code> and <code>.count(x)</code></td>
+  </tr>
 </table>
 
 # Setup Instructions
