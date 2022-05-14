@@ -157,6 +157,11 @@
     <td>1</td>
     <td><code>datetime(year, month, day)</code> and <code>datetime.now()</code></td>
   </tr>
+  <tr>
+    <td>24. <a href="https://www.codewars.com/kata/58ba6fece3614ba7c200017f/train/python">Numerical Palindrome #1</a></td>
+    <td>1</td>
+    <td><code>revert_a_list[::-1]</code>,<code>type(num)</code> and <code>str</code></td>
+  </tr>
 </table>
 
 ### 6 Kyu
